@@ -5,7 +5,7 @@
 
 1. 인터페이스
 2. 구현체
-3. mutableListOf
+3. MutableList
 4. getSystemService context
-5. di scope 범위 (`activity`, `context`)
+5. di scope 범위 (activity, context)
 6. rx 구독 생명주기 관리
