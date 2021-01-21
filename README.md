@@ -11,3 +11,4 @@ android 공부할거야!
 4. getSystemService context
 5. di scope 범위 (activity, context)
 6. rx 구독 생명주기 관리
+7. 패키지 구분은 비슷한 클래스끼리로 묶기
