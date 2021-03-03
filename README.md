@@ -36,3 +36,4 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 18. - [ ] windowSoftInputMode 관련 정보
 19. - [ ] @Binds가 뭘 까? in Dagger2
 20. - [ ] what is Observable in DataBidning
+21. - [ConstraintLayout 자세한 정보]
