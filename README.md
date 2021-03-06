@@ -37,3 +37,5 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 19. - [ ] @Binds가 뭘 까? in Dagger2
 20. - [ ] what is Observable in DataBidning
 21. - [ ] ConstraintLayout 자세한 정보
+22. - [ ] Flow 관련
+23. - [ ] StateFlow / SharedFlow
