@@ -32,7 +32,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 14. - [ ] Kotlin open vs abstract
 15. - [x] repository 폴더는 무슨 역할을 담는 폴더 일까? -> 대충 이해 완료
 16. - [x] \~\~Impl 클래스는 무슨 역할을 하는 클래스 일까?
-17. - [ ] Dagger2 심화 학습
+17. - [ ] DI(dagger2, hilt) 심화 학습
 18. - [ ] windowSoftInputMode 관련 정보
 19. - [ ] @Binds가 뭘 까? in Dagger2
 20. - [ ] what is Observable in DataBidning
