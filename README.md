@@ -39,3 +39,4 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 21. - [ ] ConstraintLayout 자세한 정보
 22. - [ ] Flow 관련
 23. - [ ] StateFlow / SharedFlow
+24. - [ ] Why use .invoke ?
