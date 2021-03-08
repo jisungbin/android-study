@@ -8,7 +8,7 @@ android 공부할거야!
 1. - [x] interface
 2. - [x] ~~구현체~~
 3. - [x] MutableList
-4. getSystemService context scope (use application or activity)
+4. - [ ] getSystemService context scope (use application or activity)
 5. - [ ] di scope 범위 (activity, context)
 6. - [ ] rx 구독 생명주기 관리
 7. - [x] 패키지 구분은 비슷한 클래스끼리로 묶기
