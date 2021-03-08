@@ -14,7 +14,7 @@ android 공부할거야!
 7. - [x] 패키지 구분은 비슷한 클래스끼리로 묶기
 8. - [x] 엑티비티에서도 databinding 활용하기
 9. - [ ] Parcelize / Serializable
-10. - [ ] 밑에 코드 이해하기 (공부 1순위, [[원본코드]](https://github.com/fornewid/android-animation-11p-more/blob/end/sample/src/main/java/soup/animation/sample/SplashActivity.kt#L17))
+10. - [ ] 밑에 코드 이해하기 [[원본코드]](https://github.com/fornewid/android-animation-11p-more/blob/end/sample/src/main/java/soup/animation/sample/SplashActivity.kt#L17)
 ```kotlin
 private val binding by viewBindings(SplashActivityBinding::inflate)
 
