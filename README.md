@@ -40,3 +40,17 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 22. - [ ] Flow 관련
 23. - [ ] StateFlow / SharedFlow
 24. - [ ] Why use .invoke ?
+25. - [ ] 밑에 코드 이해하기
+```kotlin
+@ExperimentalCoroutinesApi 
+fun testFirestoreSnapshotObserve() = callbackFlow {
+    val databaseReference = FirebaseFirestore.getInstance().collection("test").document("user")
+    val eventListener = databaseReference.addSnapshotListener { value, _ ->
+        val userData = value?.toObject(UserDTO::class.java)
+        this@callbackFlow.sendBlocking(userData!!)
+    }
+    awaitClose {
+        eventListener.remove()
+    }
+}
+```
