@@ -56,3 +56,4 @@ fun testFirestoreSnapshotObserve() = callbackFlow {
 ```
 26. - [ ] ReKotlin
 27. - [ ] Scoped Storage
+28. - [ ] suspend
