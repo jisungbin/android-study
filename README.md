@@ -54,7 +54,7 @@ fun testFirestoreSnapshotObserve() = callbackFlow {
     }
 }
 ```
-26. - [ ] ReKotlin
+26. - [ ] ~~ReKotlin~~
 27. - [ ] Scoped Storage
 28. - [x] [suspend](https://stackoverflow.com/a/52925057)
 29. - [ ] [Delegates](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%82%B4%EC%9E%A5%EB%90%9C-delegates-2%ED%8E%B8-bc4a23cb6f10)
