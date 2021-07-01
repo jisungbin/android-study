@@ -29,7 +29,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 11. - [ ] android:configChanges 속성
 12. - [ ] 인텐드애서 newTask 관련 -> task 관련
 13. - [ ] [Clean Architecture](https://codechacha.com/ko/android-clean-architecture/)
-14. - [ ] Kotlin open vs abstract
+14. - [x] [Kotlin open vs abstract](https://jeongupark-study-house.tistory.com/146)
 15. - [x] repository 폴더는 무슨 역할을 담는 폴더 일까?
 16. - [x] \~\~Impl 클래스는 무슨 역할을 하는 클래스 일까?
 17. - [ ] di(dagger2, hilt) 심화 학습 (50% 완료)
