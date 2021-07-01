@@ -40,7 +40,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 22. - [ ] Flow 관련
 23. - [ ] StateFlow / SharedFlow
 24. - [ ] Why use .invoke ?
-25. - [x] 밑에 코드 이해하기
+25. - [x] 밑에 코드 이해하기 [(callbackFlow)](https://medium.com/harrythegreat/kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-callbackflow%EC%99%80-channelflow-f4e66c9fa116)
 ```kotlin
 @ExperimentalCoroutinesApi 
 fun testFirestoreSnapshotObserve() = callbackFlow {
