@@ -57,5 +57,5 @@ fun testFirestoreSnapshotObserve() = callbackFlow {
 26. - [x] ~~ReKotlin~~ (쓸 일이 있을까?)
 27. - [x] ScopedStorage
 28. - [x] [suspend](https://stackoverflow.com/a/52925057)
-29. - [ ] [Delegates](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%82%B4%EC%9E%A5%EB%90%9C-delegates-2%ED%8E%B8-bc4a23cb6f10)
+29. - [x] [Delegates](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%82%B4%EC%9E%A5%EB%90%9C-delegates-2%ED%8E%B8-bc4a23cb6f10)
 30. - [x] [레포지토리 패턴](https://devvkkid.tistory.com/196)
