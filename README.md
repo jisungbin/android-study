@@ -37,7 +37,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 19. - [ ] @Binds가 뭘 까? in Dagger2
 20. - [ ] what is Observable in DataBidning
 21. - [ ] ConstraintLayout 자세한 정보
-22. - [x] Flow/Channel 관련
+22. - [x] [Flow/Channel 관련](https://velog.io/@eoqkrskfk94/%EC%BD%94%EB%A3%A8%ED%8B%B4-Channel%EC%B1%84%EB%84%90-Flow%ED%94%8C%EB%A1%9C%EC%9A%B0)
 23. - [ ] StateFlow / SharedFlow (복습 )
 24. - [ ] Why use .invoke ?
 25. - [x] 밑에 코드 이해하기 [(callbackFlow)](https://medium.com/harrythegreat/kotlin-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-callbackflow%EC%99%80-channelflow-f4e66c9fa116)
