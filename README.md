@@ -5,7 +5,7 @@ android 공부할거야!
 
 -----
 
-1. - [x] interface
+1. - [x] [interface](https://zerogdev.blogspot.com/2019/06/kotlininterface.html)
 2. - [x] ~~구현체~~
 3. - [x] MutableList
 4. - [x] getSystemService context scope (use application or activity)
