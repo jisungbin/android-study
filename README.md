@@ -10,7 +10,7 @@ android 공부할거야!
 3. - [x] ~~구현체~~
 4. - [x] MutableList
 5. - [x] getSystemService context scope (use application or activity)
-6. - [ ] di scope 범위 (activity, context)
+6. - [x] [di scope 범위 (activity, context)](https://hyperconnect.github.io/2020/07/28/android-dagger-hilt.html)
 7. - [ ] rx 구독 생명주기 관리
 8. - [x] 패키지 구분은 비슷한 클래스끼리로 묶기
 9. - [x] 엑티비티에서도 databinding 활용하기
