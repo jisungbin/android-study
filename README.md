@@ -28,7 +28,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 }
 ```
 11. - [x] [android:configChanges 속성](https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko)
-12. - [ ] 인텐드애서 newTask 관련 -> task 관련
+12. - [ ] [인텐드애서 newTask 관련 -> task 관련](https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=ko)
 13. - [ ] [Clean Architecture](https://codechacha.com/ko/android-clean-architecture/)
 14. - [x] [Kotlin open vs abstract](https://jeongupark-study-house.tistory.com/146)
 15. - [x] repository 폴더는 무슨 역할을 담는 폴더 일까?
