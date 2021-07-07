@@ -27,7 +27,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
     }
 }
 ```
-11. - [ ] android:configChanges 속성
+11. - [x] [android:configChanges 속성](https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko)
 12. - [ ] 인텐드애서 newTask 관련 -> task 관련
 13. - [ ] [Clean Architecture](https://codechacha.com/ko/android-clean-architecture/)
 14. - [x] [Kotlin open vs abstract](https://jeongupark-study-house.tistory.com/146)
