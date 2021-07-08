@@ -7,15 +7,16 @@ android 공부할거야!
 
 1. - [x] [interface](https://zerogdev.blogspot.com/2019/06/kotlininterface.html)
 2. - [ ] [Publishing to Maven Central](https://chris.banes.dev/publishing-to-maven-central/) 
-3. - [x] ~~구현체~~
-4. - [x] MutableList
-5. - [x] getSystemService context scope (use application or activity)
-6. - [x] [di scope 범위 (activity, context)](https://hyperconnect.github.io/2020/07/28/android-dagger-hilt.html)
-7. - [ ] rx 구독 생명주기 관리
-8. - [x] 패키지 구분은 비슷한 클래스끼리로 묶기
-9. - [x] 엑티비티에서도 databinding 활용하기
-10. - [ ] Parcelize / Serializable (복습 필요)
-11. - [ ] 밑에 코드 이해하기 [[원본코드]](https://github.com/fornewid/android-animation-11p-more/blob/end/sample/src/main/java/soup/animation/sample/SplashActivity.kt#L17)
+3. - [ ] 멀티 모듈 
+4. - [x] ~~구현체~~
+5. - [x] MutableList
+6. - [x] getSystemService context scope (use application or activity)
+7. - [x] [di scope 범위 (activity, context)](https://hyperconnect.github.io/2020/07/28/android-dagger-hilt.html)
+8. - [ ] rx 구독 생명주기 관리
+9. - [x] 패키지 구분은 비슷한 클래스끼리로 묶기
+10. - [x] 엑티비티에서도 databinding 활용하기
+11. - [ ] Parcelize / Serializable (복습 필요)
+12. - [ ] 밑에 코드 이해하기 [[원본코드]](https://github.com/fornewid/android-animation-11p-more/blob/end/sample/src/main/java/soup/animation/sample/SplashActivity.kt#L17)
 ```kotlin
 private val binding by viewBindings(SplashActivityBinding::inflate)
 
